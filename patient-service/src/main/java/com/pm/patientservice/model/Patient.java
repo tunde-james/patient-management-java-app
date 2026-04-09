@@ -13,6 +13,7 @@ import jakarta.validation.constraints.NotNull;
 
 @Entity
 public class Patient {
+    
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private UUID id;
