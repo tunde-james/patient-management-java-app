@@ -76,5 +76,4 @@ Thumbs.db
 .aws/
 
 /patient-service/src/main/resources/logback-spring.xml
-# /patient-service/src/main/resources/application.yml
-.env
+/patient-service/src/main/resources/application.yml
